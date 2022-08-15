@@ -7,6 +7,9 @@
             LenghthCalculation lenghth = new LenghthCalculation();
             lenghth.Calculation();
 
+            CheckEquality check = new CheckEquality();
+            check.Equality();
+
         }
     }
 }
